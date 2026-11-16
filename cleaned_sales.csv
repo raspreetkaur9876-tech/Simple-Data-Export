@@ -1,0 +1,9 @@
+Order_ID,Product,Category,Quantity,Price,City,Total_Sales
+101,Laptop,Electronics,2,50000,Ludhiana,100000
+102,Mouse,Accessories,3,500,Delhi,1500
+103,Keyboard,Accessories,2,1200,Chandigarh,2400
+104,Phone,Electronics,1,25000,Delhi,25000
+105,Tablet,Electronics,2,15000,Ludhiana,30000
+106,Mouse,Accessories,3,500,Delhi,1500
+107,Monitor,Electronics,1,12000,Chandigarh,12000
+108,Keyboard,Accessories,2,1200,Ludhiana,2400
